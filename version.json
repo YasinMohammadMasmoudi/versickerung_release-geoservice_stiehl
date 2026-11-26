@@ -2,5 +2,5 @@
   "build": 2,
   "version": "1.0.1",
   "apk": "https://github.com/YasinMohammadMasmoudi/versickerung_release-geoservice_stiehl/releases/download/v1.0.1/versickerung.apk",
-  "notes": "Open-End-Versuch: die neueste Messzeile steht jetzt oben in der Tabelle. Weniger Berechtigungen: das Update braucht keinen Speicher- und keinen System-Installationszugriff mehr. Das verhindert die Warnung „Schädliche App blockiert\" von Google Play Protect."
+  "notes": "Open-End-Versuch: die neueste Messzeile steht jetzt oben in der Tabelle."
 }
